@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1701710331 source:c:\users\bureau\onedrive\documents\mycppprojects\sort_algotithm\main.cpp
+	<iostream>
+	"sortarray.h"
+	"tree.h"
+
+1701623957 c:\users\bureau\onedrive\documents\mycppprojects\sort_algotithm\sortarray.h
+	<iostream>
+	<iomanip>
+
+1701710331 c:\users\bureau\onedrive\documents\mycppprojects\sort_algotithm\tree.h
+	<iostream>
+	<iomanip>
+
